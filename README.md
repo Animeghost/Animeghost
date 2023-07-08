@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Animeghost
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Java, SQl, Springboot
+- 💞️ I’m looking to collaborate on any backend projects
 - 📫 How to reach me ...
 
 <!---
